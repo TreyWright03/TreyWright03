@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Trey and I'm a IT Specialist, from Tennessee!
+<h2 align="left">Hi 👋! My name is Trey!
 
 ###
 
