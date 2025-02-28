@@ -26,6 +26,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" height="30" alt="firebase logo"  />
+  <img width="12" />
 </div>
 
 ###
