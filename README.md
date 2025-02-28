@@ -30,11 +30,11 @@
 
 ###
 
-<div align="left">
-  [![instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo)](https://www.instagram.com/trey.wright03/)
-  [![discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo)](https://discord.com/invite/YMPXfdfb)
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-</div>
+<p>
+  <a href="https://www.instagram.com/trey.wright03/" target="_blank"><img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"  height="30px"/></a> 
+  <a href="https://discord.com/invite/YMPXfdfb" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"  height="30px"/></a> 
+  <a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+</p>
 
 
 
