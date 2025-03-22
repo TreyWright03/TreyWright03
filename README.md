@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Trey!
+
+<h1 align="center"> Hello!👋 I'm Daniel (Trey) Wright III</h1>
 
 ###
 
