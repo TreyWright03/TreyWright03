@@ -9,9 +9,9 @@
 </div>
 
 ###
-
-<img align="center" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFxMnZ4d2VkNm13Ymg1aHN0eWMzMHpybTVoeTdiZm9pcHpsNXZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1W40UWS9peSru/giphy.webp"  />
-
+<div align="center">
+  <img align="center" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFxMnZ4d2VkNm13Ymg1aHN0eWMzMHpybTVoeTdiZm9pcHpsNXZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1W40UWS9peSru/giphy.webp"  />
+/>
 ###
 
 <div align="center">
@@ -36,7 +36,7 @@
 
 ###
 
-<p>
+<p align="center">
   <a href="https://www.instagram.com/trey.wright03/" target="_blank"><img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"  height="30px"/></a> 
   <a href="https://discord.com/invite/YMPXfdfb" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"  height="30px"/></a> 
   <a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
