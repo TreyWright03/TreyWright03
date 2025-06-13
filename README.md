@@ -12,7 +12,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFxMnZ4d2VkNm13Ymg1aHN0eWMzMHpybTVoeTdiZm9pcHpsNXZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1W40UWS9peSru/giphy.webp" height="175px" align="right" />
 
-- 🛠️ I’m currently working on: `Wedding Website & Portfolio Site `.
+- 🛠️ I’m currently working on: `Portfolio Site `.
 
 - 📚 I'm currently studying: `Computer Science & Graduate FA2025`.
 
