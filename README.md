@@ -23,13 +23,14 @@
 ## 🛠️ My Development Stack:
 
 <p>
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)
-  ![Python](https://img.shields.io/badge/-Python-black?logo=python)
-  ![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B)
-  ![C#](https://img.shields.io/badge/-C%23-black?logo=c-sharp)
-  ![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=12px alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30px" alt="python logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30px" alt="c++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30px" alt="csharp logo"  />
+  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" height="30px" alt="firebase logo"  />
+  <img src="https://github.com/user-attachments/assets/4458f0a5-fbd2-41ff-9c8b-1fad001d35a8"  height="30px" alt="cobol logo"  />
 </p>
 
 ## 🔥 You Can Reach Me Here:
