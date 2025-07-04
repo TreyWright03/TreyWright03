@@ -23,14 +23,14 @@
 ## 🛠️ My Development Stack:
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30%" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30%" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30%" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30%" alt="python logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30%" alt="c++ logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30%" alt="csharp logo"  />
-  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" height="30%" alt="firebase logo"  />
-  <img src="https://github.com/user-attachments/assets/4458f0a5-fbd2-41ff-9c8b-1fad001d35a8"  height="30%" alt="cobol logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" height="30px" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" height="30px" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" height="30px" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" height="30px" alt="python logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30px" height="30px" alt="c++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" height="30px" alt="csharp logo"  />
+  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" width="30px" height="30px" alt="firebase logo"  />
+  <img src="https://github.com/user-attachments/assets/4458f0a5-fbd2-41ff-9c8b-1fad001d35a8"  width="30px" height="30px" alt="cobol logo"  />
 </p>
 
 ## 🔥 You Can Reach Me Here:
