@@ -10,7 +10,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFxMnZ4d2VkNm13Ymg1aHN0eWMzMHpybTVoeTdiZm9pcHpsNXZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1W40UWS9peSru/giphy.webp" height="175px" width="auto" align="right" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFxMnZ4d2VkNm13Ymg1aHN0eWMzMHpybTVoeTdiZm9pcHpsNXZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1W40UWS9peSru/giphy.webp" height="100px" width="54" align="right" />
 
 - 🛠️ I’m currently working on: `Portfolio Site `.
 
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" height="30px" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" height="30px" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" height="30px" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=auto height="30px" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" height="30px" alt="python logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30px" height="30px" alt="c++ logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" height="30px" alt="csharp logo"  />
   <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" width="30px" height="30px" alt="firebase logo"  />
