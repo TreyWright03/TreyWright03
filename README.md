@@ -3,11 +3,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TreyWright03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="450" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TreyWright03&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=dracula&hide_border=false" height="150" width="320" alt="languages graph"  />
-</div>
-
 ## 👨🏻‍💻 About Me:
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFxMnZ4d2VkNm13Ymg1aHN0eWMzMHpybTVoeTdiZm9pcHpsNXZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1W40UWS9peSru/giphy.webp" width="325" align="right" />
