@@ -7,13 +7,13 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFxMnZ4d2VkNm13Ymg1aHN0eWMzMHpybTVoeTdiZm9pcHpsNXZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1W40UWS9peSru/giphy.webp" width="325" align="right" />
 
-- 🛠️ I’m currently working on: `PsychedTogether.com `.
+- 🛠️ I’m currently working on: `Some Personal Projects`.
 
-- 📚 I'm currently studying: `Computer Science & Graduate FA2025`.
+- 📚 Degree: `BS degree in Computer Science at University of Tennessee at Martin`.
 
-- 🔭 I’m working as: `IT Specialist at Discovery Park of America`.
+- 🔭 I’m working as: `IT Administator II - Application Developemnt at UTM`.
 
-- ⚡ In my free time I: `Love playing Rocket League`.
+- ⚡ In my free time I: `Love playing Rocket League and doing art`.
 
 ## 🛠️ My Development Stack:
 
