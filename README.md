@@ -11,7 +11,7 @@
 
 - 📚 Degree: `BS degree in Computer Science at University of Tennessee at Martin`.
 
-- 🔭 I’m working as: `IT Administator II - Application Developemnt at UTM`.
+- 🔭 I’m working as: `IT Administator III - Application Developemnt at UTM`.
 
 - ⚡ In my free time I: `Love playing Rocket League and doing art`.
 
